@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/social_media/static/css/main.0fe473af.css",
+    "main.js": "/social_media/static/js/main.69a23cd2.js",
+    "static/media/post7.jpg": "/social_media/static/media/post7.aaf70e6d697ad41e0e9d.jpg",
+    "static/media/farmer4.jpg": "/social_media/static/media/farmer4.c137bcfee35312b83b48.jpg",
+    "static/media/farmer5.jpg": "/social_media/static/media/farmer5.1dc91bc9ca766e7a81c2.jpg",
+    "static/media/post4.jpg": "/social_media/static/media/post4.1677ef857bc23abffc13.jpg",
+    "static/media/post5.jpg": "/social_media/static/media/post5.fdde05b2c72f9d25ef12.jpg",
+    "static/media/post3.jpg": "/social_media/static/media/post3.51796eb5850e3a87d805.jpg",
+    "static/media/post6.jpg": "/social_media/static/media/post6.1bf4b0e5690fdb60e41c.jpg",
+    "static/media/farmer1.jpg": "/social_media/static/media/farmer1.dacdc42c676777034ab8.jpg",
+    "static/media/farmer3.jpg": "/social_media/static/media/farmer3.1cc53a2164901ea51cac.jpg",
+    "static/media/post1.jpg": "/social_media/static/media/post1.1ee5e0644fb39ce3f1d9.jpg",
+    "static/media/farmer2.jpg": "/social_media/static/media/farmer2.c6e395b77b91f1c0cf73.jpg",
+    "static/media/birthday.jpg": "/social_media/static/media/birthday.0f08637b41896d3fb7ea.jpg",
+    "index.html": "/social_media/index.html",
+    "main.0fe473af.css.map": "/social_media/static/css/main.0fe473af.css.map",
+    "main.69a23cd2.js.map": "/social_media/static/js/main.69a23cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe473af.css",
+    "static/js/main.69a23cd2.js"
+  ]
+}
