@@ -4,7 +4,7 @@ import React from 'react'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {homedata,farmerdata} from './Homedata'
 export const Homebar = () => {
-  return (<><div className='collapse d-md-block  position-fixed z-1 fs-5 mt-5 pt-2 homeSlide pb-4' style={{minWidth:'230px', maxWidth:'240px'}}>
+  return (<><div className='d-md-block position-fixed z-1 fs-5 bg-white homeSlide pb-4' style={{top:'59px',minWidth:'230px', maxWidth:'240px'}}>
     {homedata.map((val)=>{
         return(
             <>
