@@ -1,4 +1,4 @@
-.badge
+/* icons */
 *,body{
     margin:0;
     padding:0;
@@ -73,6 +73,12 @@ top:0;
  .homepage2.homepagetwo{
     width:100%;
  }
+ .homepageicon{
+    font-size:12px;
+ }
+ .homepage .container .icons{
+    font-size:13px;
+}
     }
 @media(max-width:768px){
 .homebar{

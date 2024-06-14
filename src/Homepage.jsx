@@ -72,9 +72,9 @@ const Homepage = () => {
                 src={val.farmerlogo}
                 alt=""
               />
-              <h3 className="mt-1  flex p-2">{val.farmername}</h3>
+              <h3 className="mt-1  flex p-2 fs-4">{val.farmername}</h3>
               <h4 className=" p-2 fs-6 fs-md-1 fw-light flex">5 mins ago</h4>
-              <div className="position-absolute mt-2 end-0 me-4 fs-4">
+              <div className="position-absolute mt-2 end-0 me-4 fs-5">
                 <FontAwesomeIcon icon={faEllipsisV} />
               </div>
             </div>
