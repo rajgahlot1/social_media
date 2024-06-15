@@ -38,7 +38,7 @@ export const Navbar = ({clickHandler,showData}) => {
       <div className={`d-flex gap-3 iconbox row z-1 bg-dark ${showData==='showMess'?'showMess':''}`}>
       
         {
-          icon.map((val,ind)=>{return( <div className="d-md-block col-12 col-md">
+          icon.map((val,ind)=>{return( <div key={ind} className="d-md-block col-12 col-md">
             <FontAwesomeIcon className="fs-3" icon={val} />
             <p
               className="position-absolute ms-3  d-flex flex-column flex-md-row align-items-center justify-content-center text-white z-2 bg-danger rounded-circle fw-bolder"

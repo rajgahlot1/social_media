@@ -1,0 +1,19 @@
+
+@media(max-width:576px){
+.hello .mibold{
+    font-size:13px;
+    padding-left:1px;
+}
+.hello kbd{
+    margin-right: 4px;
+}
+.friend,.hello h3{
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+}
+
+@media(min-width:576px){
+    .hello .mibold{
+        font-size:20px;
+    }}
