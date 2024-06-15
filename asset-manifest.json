@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/social_media/static/css/main.c094d5e0.css",
-    "main.js": "/social_media/static/js/main.51a5dd85.js",
+    "main.css": "/social_media/static/css/main.43e4963c.css",
+    "main.js": "/social_media/static/js/main.2ad832a0.js",
     "static/media/post7.jpg": "/social_media/static/media/post7.aaf70e6d697ad41e0e9d.jpg",
     "static/media/farmer4.jpg": "/social_media/static/media/farmer4.c137bcfee35312b83b48.jpg",
+    "static/media/profilebg.jpeg": "/social_media/static/media/profilebg.7101318b565fc5c168b2.jpeg",
     "static/media/farmer5.jpg": "/social_media/static/media/farmer5.1dc91bc9ca766e7a81c2.jpg",
     "static/media/post4.jpg": "/social_media/static/media/post4.1677ef857bc23abffc13.jpg",
     "static/media/post5.jpg": "/social_media/static/media/post5.fdde05b2c72f9d25ef12.jpg",
@@ -15,11 +16,11 @@
     "static/media/farmer2.jpg": "/social_media/static/media/farmer2.c6e395b77b91f1c0cf73.jpg",
     "static/media/birthday.jpg": "/social_media/static/media/birthday.0f08637b41896d3fb7ea.jpg",
     "index.html": "/social_media/index.html",
-    "main.c094d5e0.css.map": "/social_media/static/css/main.c094d5e0.css.map",
-    "main.51a5dd85.js.map": "/social_media/static/js/main.51a5dd85.js.map"
+    "main.43e4963c.css.map": "/social_media/static/css/main.43e4963c.css.map",
+    "main.2ad832a0.js.map": "/social_media/static/js/main.2ad832a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c094d5e0.css",
-    "static/js/main.51a5dd85.js"
+    "static/css/main.43e4963c.css",
+    "static/js/main.2ad832a0.js"
   ]
 }
