@@ -49,7 +49,7 @@ const App = () => {
             <Profile uniqueNumbers={uniqueNumbers} imgIndex={imgIndex} setImgIndex={setImgIndex} />
           </div>
           <div className="col-12 col-sm col-md col-lg p-0 homepageComp">
-            <Homepage />
+            <Homepage setImgIndex={setImgIndex}/>
           </div>
           <div
             className="col-0 col-sm-4 col-md-5 bg-white"

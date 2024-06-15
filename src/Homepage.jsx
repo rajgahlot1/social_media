@@ -20,13 +20,13 @@ const Homepage = ({setImgIndex}) => {
             }}
           >
             <div className="d-flex farmname w-100 position-relative">
-              <img
+              <div className="d-flex cursor-pointer" onClick={()=>{setImgIndex(ind);window.scrollTo(0,0)}}><img 
                 className="ms-2 mt-1 rounded-circle"
                 style={{ height: "50px", width: "50px" }}
                 src={val.farmerlogo}
                 alt=""
               />
-              <h3 className="mt-1  flex p-2 fs-4">{val.farmername}</h3>
+              <h3 className="mt-1  flex p-2 fs-4">{val.farmername}</h3></div>
               <h4 className=" p-2 fs-6 fs-md-1 fw-light flex">5 mins ago</h4>
               <div className="position-absolute mt-2 end-0 me-4 fs-5">
                 <FontAwesomeIcon icon={faEllipsisV} />

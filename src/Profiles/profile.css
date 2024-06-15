@@ -17,3 +17,6 @@
     .hello .mibold{
         font-size:20px;
     }}
+ .cursor-pointer{
+    cursor:pointer
+ }   
